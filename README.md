@@ -1,5 +1,8 @@
-<h1 align="center">Hello There 👋, I'm Arnab Mukherjee</h1>
+<h2 align="center">Hey there, <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">I'm Arnab Mukherjee</h2>
+============================================================================================
 <h3 align="center">A passionate Competitive programmer & frontend developer from India</h3>
+
+<img src="https://github.com/arnab3339/arnab3339/assets/139433951/89a8320b-748b-4fc4-841b-ff5c9b6c7787" alt="coding" align="right" height=300 width=365 >
 
 - 🌍  I'm based in Kalyani,West Bengal,India
  
@@ -11,7 +14,7 @@
 
 - ⚡ Fun fact **I am funny🙂**
 
-<img src="https://github.com/arnab3339/arnab3339/assets/139433951/89a8320b-748b-4fc4-841b-ff5c9b6c7787" alt="coding" align="right" height=300 width=365 style="10px-border-radius">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
