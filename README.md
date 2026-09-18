@@ -8,11 +8,15 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&width=750&height=45&lines=Hi+there!+I'm+Arnab+Mukherjee+%F0%9F%91%8B;Electronics+%26+Communication+Engineer+%F0%9F%93%A1;Software+Developer+%7C+IoT+Enthusiast+%F0%9F%92%BB;Java+%7C+C%2B%2B+%7C+JavaScript+%7C+React+%7C+Node.js;Building+Practical+Solutions+with+Code+%26+Technology+%E2%9A%A1"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&width=750&height=45&lines=Hi+there!+I'm+Arnab+Mukherjee+%F0%9F%91%8B;Electronics+%26+Communication+Engineer+%F0%9F%93%A1;Java+%7C+C%2B%2B+%7C+JavaScript+%7C+React+%7C+Node.js;Building+Practical+Solutions+with+Code+%26+Technology+%E2%9A%A1"
     width="100%"
     style="max-width: 750px;"
     alt="Typing Introduction"
   />
+</p>
+
+<p align="center">
+  <b>Currently, I am an SDE Intern.</b>
 </p>
 
 <p align="center">
@@ -74,20 +78,21 @@
 </p>
 
 <p align="center">
-  I enjoy building practical applications and solving programming problems
-  using <b>Java, C, C++, JavaScript and modern web technologies</b>.
+  I enjoy building practical applications and solving programming
+  problems using <b>Java, C, C++, JavaScript and modern web technologies</b>.
 </p>
 
 <p align="center">
   Currently, I am focusing on strengthening my skills in
-  <b>Backend Development, DSA, Database Systems, REST APIs,
+  <b>DSA, OOP, DBMS, SQL, REST APIs, Backend Development,
   Microservices and System Design</b>.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Background-ECE%20Engineer-DC2626?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-111111?style=flat-square" />
-  <img src="https://img.shields.io/badge/Interest-Backend%20%26%20IoT-DC2626?style=flat-square" />
+  <img src="https://img.shields.io/badge/Current%20Role-SDE%20Intern-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-DC2626?style=flat-square" />
+  <img src="https://img.shields.io/badge/Interest-IoT%20%26%20Web-111111?style=flat-square" />
 </p>
 
 ---
@@ -419,60 +424,126 @@ HTML • CSS
 
 ---
 
-<h2 align="center">🎓 Certification</h2>
+<h2 align="center">🎓 Certifications</h2>
 
-<p align="center">
+<table width="100%" border="0" align="center">
 
+<tr>
+
+<td width="50%" align="center" style="padding: 25px;">
+
+<h3>☁️ Salesforce</h3>
+
+<p>
   <img
     src="https://img.shields.io/badge/Salesforce-Certification-DC2626?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=0a0a0a"
     alt="Salesforce Certification"
   />
-
 </p>
+
+<p>
+  Salesforce Certification
+</p>
+
+</td>
+
+<td width="50%" align="center" style="padding: 25px;">
+
+<h3>☕ Wipro TalentNext</h3>
+
+<p>
+  <img
+    src="https://img.shields.io/badge/Wipro%20TalentNext-Java%20Full%20Stack-111111?style=for-the-badge&logo=java&logoColor=EF4444&labelColor=0a0a0a"
+    alt="Wipro TalentNext Java Full Stack"
+  />
+</p>
+
+<p>
+  Java Full Stack Certification
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 <h2 align="center">🧩 Problem Solving & Core Skills</h2>
 
-<p align="center">
+<table width="100%" border="0" align="center">
 
-  <img
-    src="https://img.shields.io/badge/DSA-Problem%20Solving-DC2626?style=for-the-badge"
-    alt="DSA"
-  />
+<tr>
 
-  <img
-    src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-111111?style=for-the-badge"
-    alt="OOP"
-  />
+<td width="33.33%" align="center" style="padding: 18px;">
 
-  <img
-    src="https://img.shields.io/badge/DBMS-Database%20Concepts-DC2626?style=for-the-badge"
-    alt="DBMS"
-  />
+<img
+  src="https://img.shields.io/badge/DSA-PROBLEM%20SOLVING-DC2626?style=for-the-badge"
+  alt="DSA"
+/>
 
-  <img
-    src="https://img.shields.io/badge/SQL-Database%20Queries-111111?style=for-the-badge"
-    alt="SQL"
-  />
+</td>
 
-  <img
-    src="https://img.shields.io/badge/REST%20API-Backend%20Development-DC2626?style=for-the-badge"
-    alt="REST API"
-  />
+<td width="33.33%" align="center" style="padding: 18px;">
 
-  <img
-    src="https://img.shields.io/badge/Microservices-Architecture-111111?style=for-the-badge"
-    alt="Microservices"
-  />
+<img
+  src="https://img.shields.io/badge/OOP-OBJECT%20ORIENTED%20PROGRAMMING-111111?style=for-the-badge"
+  alt="OOP"
+/>
 
-</p>
+</td>
+
+<td width="33.33%" align="center" style="padding: 18px;">
+
+<img
+  src="https://img.shields.io/badge/DBMS-DATABASE%20CONCEPTS-DC2626?style=for-the-badge"
+  alt="DBMS"
+/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33.33%" align="center" style="padding: 18px;">
+
+<img
+  src="https://img.shields.io/badge/SQL-DATABASE%20QUERIES-111111?style=for-the-badge"
+  alt="SQL"
+/>
+
+</td>
+
+<td width="33.33%" align="center" style="padding: 18px;">
+
+<img
+  src="https://img.shields.io/badge/REST%20API-BACKEND%20DEVELOPMENT-DC2626?style=for-the-badge"
+  alt="REST API"
+/>
+
+</td>
+
+<td width="33.33%" align="center" style="padding: 18px;">
+
+<img
+  src="https://img.shields.io/badge/MICROSERVICES-ARCHITECTURE-111111?style=for-the-badge"
+  alt="Microservices"
+/>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
+
   <img
     src="https://github-readme-stats.vercel.app/api?username=arnab3339&show_icons=true&hide_border=false&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=10"
     width="100%"
@@ -486,6 +557,7 @@ HTML • CSS
     style="max-width: 350px;"
     alt="Top Languages"
   />
+
 </p>
 
 ---
