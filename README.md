@@ -7,17 +7,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/arnab3339">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=700&height=45&lines=Hi+there!+I'm+Arnab+Mukherjee+%F0%9F%91%8B;Electronics+%26+Communication+Engineer+%F0%9F%93%A1;Software+Developer+%7C+IoT+Enthusiast+%F0%9F%92%BB;Java+%7C+C%2B%2B+%7C+JavaScript+%7C+React+%7C+Node.js;Building+Practical+Solutions+with+Code+%26+Technology+%E2%9A%A1"
-      width="100%"
-      style="max-width: 700px;"
-      alt="Typing Introduction"
-    />
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&width=750&height=45&lines=Hi+there!+I'm+Arnab+Mukherjee+%F0%9F%91%8B;Electronics+%26+Communication+Engineer+%F0%9F%93%A1;Software+Developer+%7C+IoT+Enthusiast+%F0%9F%92%BB;Java+%7C+C%2B%2B+%7C+JavaScript+%7C+React+%7C+Node.js;Building+Practical+Solutions+with+Code+%26+Technology+%E2%9A%A1"
+    width="100%"
+    style="max-width: 750px;"
+    alt="Typing Introduction"
+  />
 </p>
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/arnab-mukherjee-825517283/" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a"
@@ -45,6 +44,7 @@
       alt="Email"
     />
   </a>
+
 </p>
 
 <p align="center">
@@ -60,44 +60,47 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=650&height=30&lines=Driven+by+curiosity.+Building+with+purpose.+Learning+every+day."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&width=700&height=30&lines=Driven+by+curiosity.+Building+with+purpose.+Learning+every+day."
     width="100%"
-    style="max-width: 650px;"
-    alt="About Me Typing"
+    style="max-width: 700px;"
+    alt="About Me"
   />
 </p>
 
 <p align="center">
-  Hi! I'm <b>Arnab Mukherjee</b>, an <b>Electronics & Communication Engineering</b>
-  graduate with a strong interest in <b>Software Development, IoT and Web Technologies</b>.
-  <br />
-  I enjoy solving problems with <b>Java, C, C++, JavaScript and modern web technologies</b>.
-  <br />
-  I am continuously improving my knowledge of <b>DSA, OOP, DBMS, SQL, Backend Development
-  and System Design</b>.
+  Hi! I'm <b>Arnab Mukherjee</b>, an
+  <b>Electronics & Communication Engineering</b> graduate with a strong
+  interest in <b>Software Development, Backend Engineering, IoT and Web Technologies</b>.
+</p>
+
+<p align="center">
+  I enjoy building practical applications and solving programming problems
+  using <b>Java, C, C++, JavaScript and modern web technologies</b>.
+</p>
+
+<p align="center">
+  Currently, I am focusing on strengthening my skills in
+  <b>Backend Development, DSA, Database Systems, REST APIs,
+  Microservices and System Design</b>.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Background-ECE%20Engineer-DC2626?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Software%20Development-111111?style=flat-square" />
-  <img src="https://img.shields.io/badge/Interest-IoT%20%26%20Web-DC2626?style=flat-square" />
-</p>
-
-<p align="center">
-  <b>Current Focus:</b> Software Development • Backend Development • DSA • Web Technologies
-  <br />
-  <b>Learning:</b> React • Node.js • Express • Next.js • Prisma • MySQL • System Design
+  <img src="https://img.shields.io/badge/Interest-Backend%20%26%20IoT-DC2626?style=flat-square" />
 </p>
 
 ---
 
-<h2 align="center">🚀 What I Work With</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <table width="100%" border="0" align="center">
-  <tr>
-    <td width="50%" align="center" style="padding: 18px;">
 
-<h3>💻 Programming</h3>
+<tr>
+
+<td width="50%" align="center" style="padding: 20px;">
+
+<h3>💻 Programming Languages</h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,ts" />
@@ -107,9 +110,9 @@
   Java • C • C++ • JavaScript • TypeScript • Python Basics
 </p>
 
-    </td>
+</td>
 
-    <td width="50%" align="center" style="padding: 18px;">
+<td width="50%" align="center" style="padding: 20px;">
 
 <h3>🌐 Frontend</h3>
 
@@ -121,98 +124,184 @@
   HTML • CSS • JavaScript • React • Next.js • Tailwind CSS
 </p>
 
-    </td>
-  </tr>
+</td>
 
-  <tr>
-    <td width="50%" align="center" style="padding: 18px;">
+</tr>
 
-<h3>⚙️ Backend</h3>
+<tr>
+
+<td width="50%" align="center" style="padding: 20px;">
+
+<h3>⚙️ Backend & APIs</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastify" />
 </p>
 
 <p>
-  Node.js • Express.js • Prisma • REST APIs
+  Node.js • Express.js • NestJS • Fastify
+  <br />
+  REST APIs • Microservices • Backend Architecture
 </p>
 
-    </td>
+</td>
 
-    <td width="50%" align="center" style="padding: 18px;">
+<td width="50%" align="center" style="padding: 20px;">
 
-<h3>🗄️ Database</h3>
+<h3>🗄️ Database & ORM</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma" />
 </p>
 
 <p>
-  MySQL • Database Design • SQL • Sequelize • Prisma
+  MySQL • SQL • Prisma • Sequelize
+  <br />
+  Database Design • Migrations • CRUD
 </p>
 
-    </td>
-  </tr>
+</td>
 
-  <tr>
-    <td width="50%" align="center" style="padding: 18px;">
+</tr>
+
+<tr>
+
+<td width="50%" align="center" style="padding: 20px;">
+
+<h3>🚀 Distributed Systems & Tools</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=redis,docker,git,github,postman" />
+</p>
+
+<p>
+  Redis • BullMQ • Queue Processing • Cron Jobs
+  <br />
+  Git • GitHub • Postman
+</p>
+
+</td>
+
+<td width="50%" align="center" style="padding: 20px;">
 
 <h3>🧠 Core Concepts</h3>
 
 <p>
-  OOP • DSA • DBMS • Computer Networks
+  OOP • DSA • DBMS • SQL
   <br />
-  REST API • CRUD • Authentication • Git Workflow
+  Computer Networks • REST API • CRUD
+  <br />
+  Authentication • Validation • Git Workflow
 </p>
 
-    </td>
+</td>
 
-    <td width="50%" align="center" style="padding: 18px;">
+</tr>
 
-<h3>🛠️ Tools</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode" />
-</p>
-
-<p>
-  Git • GitHub • Postman • VS Code • Linux
-</p>
-
-    </td>
-  </tr>
 </table>
 
 ---
 
-<h2 align="center">🔥 Featured Projects</h2>
+<h2 align="center">🚀 Projects & Engineering Work</h2>
 
 <table width="100%" border="0" align="center">
 
 <tr>
 
-<td width="50%" align="center" style="padding: 22px;">
+<td width="50%" align="center" style="padding: 25px;">
 
-<h3>🌱 Smart Waste Management System</h3>
+<h3>🏢 Internal Engineering Task Management System</h3>
 
 <p>
-<b>IoT-Based Final Year Project</b>
+<b>Full-Stack Web Application</b>
 </p>
 
 <p>
-A smart waste management solution using IoT concepts to improve
-waste handling and segregation. The project focuses on detecting
-waste conditions and managing dry and wet waste using sensors.
+Worked on an internal engineering task management platform involving
+dashboard interfaces, task workflows, role-based APIs and frontend
+state management.
 </p>
 
 <p>
 <b>Technologies:</b>
-Arduino • Sensors • IoT • Embedded Systems
+Next.js • React • Tailwind CSS • TanStack Query
+• Redux Toolkit • Node.js • Express.js • Prisma • MySQL
 </p>
 
 </td>
 
-<td width="50%" align="center" style="padding: 22px;">
+<td width="50%" align="center" style="padding: 25px;">
+
+<h3>📅 Slot Booking Service</h3>
+
+<p>
+<b>Backend Service</b>
+</p>
+
+<p>
+Worked on backend workflows for candidate slot booking, service-side
+business logic and booking management.
+</p>
+
+<p>
+<b>Technologies:</b>
+Node.js • TypeScript • Express.js
+• Sequelize • MySQL • REST APIs
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center" style="padding: 25px;">
+
+<h3>📝 Candidate Form Details Service</h3>
+
+<p>
+<b>Backend Microservice</b>
+</p>
+
+<p>
+Worked on candidate submission handling and backend service workflows,
+including integration with asynchronous reminder processing.
+</p>
+
+<p>
+<b>Technologies:</b>
+Node.js • TypeScript • Express.js
+• Sequelize • MySQL • Redis • BullMQ
+</p>
+
+</td>
+
+<td width="50%" align="center" style="padding: 25px;">
+
+<h3>🔔 Slot Booking Notification Service</h3>
+
+<p>
+<b>Notification & Reminder Microservice</b>
+</p>
+
+<p>
+Worked on asynchronous notification workflows, booking reminders,
+queues and scheduled processing for pending candidate bookings.
+</p>
+
+<p>
+<b>Technologies:</b>
+Node.js • TypeScript • Prisma
+• Redis • BullMQ • Cron Jobs
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center" style="padding: 25px;">
 
 <h3>🧠 Java Quiz Application</h3>
 
@@ -231,18 +320,48 @@ and score calculation.
 Java • Swing • OOP
 </p>
 
+<p>
+<a href="https://github.com/arnab3339/Java-Quiz-Application">
+  <img
+    src="https://img.shields.io/badge/View%20Repository-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a"
+    alt="Java Quiz Application Repository"
+  />
+</a>
+</p>
+
+</td>
+
+<td width="50%" align="center" style="padding: 25px;">
+
+<h3>🌱 Smart Waste Management System</h3>
+
+<p>
+<b>IoT-Based Final Year Project</b>
+</p>
+
+<p>
+An IoT-based smart waste management system designed around
+sensor-based waste detection, monitoring and dry/wet waste
+segregation.
+</p>
+
+<p>
+<b>Technologies:</b>
+IoT • Sensors • Arduino • Embedded Systems
+</p>
+
 </td>
 
 </tr>
 
 <tr>
 
-<td width="50%" align="center" style="padding: 22px;">
+<td width="50%" align="center" style="padding: 25px;">
 
 <h3>🚨 Anti Ragging Website</h3>
 
 <p>
-A web-based platform designed for submitting and handling
+A web-based complaint platform designed for submitting and handling
 anti-ragging complaints with email functionality.
 </p>
 
@@ -253,13 +372,13 @@ HTML • CSS • JavaScript • SMTP
 
 </td>
 
-<td width="50%" align="center" style="padding: 22px;">
+<td width="50%" align="center" style="padding: 25px;">
 
 <h3>🎬 Netflix Landing Page Clone</h3>
 
 <p>
-A responsive landing page recreation inspired by the Netflix
-interface, developed to strengthen frontend and UI development skills.
+A frontend landing page recreation developed to practice
+responsive UI design and frontend development.
 </p>
 
 <p>
@@ -275,17 +394,24 @@ HTML • CSS
 
 <p align="center">
 
-  <a href="https://github.com/arnab3339/Java-Quiz-Application">
+  <a href="https://github.com/arnab3339/candidate-form-details-service">
     <img
-      src="https://img.shields.io/badge/Java%20Quiz%20Application-View%20Project-DC2626?style=for-the-badge&logo=java&logoColor=white&labelColor=0a0a0a"
-      alt="Java Quiz Application"
+      src="https://img.shields.io/badge/Candidate%20Form%20Service-View%20Repository-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a"
+      alt="Candidate Form Details Service"
     />
   </a>
 
-  <a href="https://github.com/arnab3339">
+  <a href="https://github.com/arnab3339/slot-booking-service">
     <img
-      src="https://img.shields.io/badge/More%20Projects-View%20GitHub-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a"
-      alt="More Projects"
+      src="https://img.shields.io/badge/Slot%20Booking%20Service-View%20Repository-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a"
+      alt="Slot Booking Service"
+    />
+  </a>
+
+  <a href="https://github.com/arnab3339/slot-booking-system-notification-service">
+    <img
+      src="https://img.shields.io/badge/Notification%20Service-View%20Repository-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a"
+      alt="Notification Service"
     />
   </a>
 
@@ -293,18 +419,15 @@ HTML • CSS
 
 ---
 
-<h2 align="center">🎓 Certification & Training</h2>
+<h2 align="center">🎓 Certification</h2>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Salesforce-Certification-DC2626?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=0a0a0a" />
+  <img
+    src="https://img.shields.io/badge/Salesforce-Certification-DC2626?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=0a0a0a"
+    alt="Salesforce Certification"
+  />
 
-<img src="https://img.shields.io/badge/Eastern%20Railway-Industrial%20Training-111111?style=for-the-badge&logoColor=white&labelColor=0a0a0a" />
-
-</p>
-
-<p align="center">
-  Industrial Training — <b>Eastern Railway, Signal & Telecommunication Department</b>
 </p>
 
 ---
@@ -312,21 +435,37 @@ HTML • CSS
 <h2 align="center">🧩 Problem Solving & Core Skills</h2>
 
 <p align="center">
+
   <img
     src="https://img.shields.io/badge/DSA-Problem%20Solving-DC2626?style=for-the-badge"
+    alt="DSA"
   />
+
   <img
     src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-111111?style=for-the-badge"
+    alt="OOP"
   />
+
   <img
     src="https://img.shields.io/badge/DBMS-Database%20Concepts-DC2626?style=for-the-badge"
+    alt="DBMS"
   />
+
   <img
     src="https://img.shields.io/badge/SQL-Database%20Queries-111111?style=for-the-badge"
+    alt="SQL"
   />
+
   <img
-    src="https://img.shields.io/badge/Git-GitHub-DC2626?style=for-the-badge&logo=git&logoColor=white"
+    src="https://img.shields.io/badge/REST%20API-Backend%20Development-DC2626?style=for-the-badge"
+    alt="REST API"
   />
+
+  <img
+    src="https://img.shields.io/badge/Microservices-Architecture-111111?style=for-the-badge"
+    alt="Microservices"
+  />
+
 </p>
 
 ---
@@ -337,7 +476,7 @@ HTML • CSS
   <img
     src="https://github-readme-stats.vercel.app/api?username=arnab3339&show_icons=true&hide_border=false&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=10"
     width="100%"
-    style="max-width: 450px;"
+    style="max-width: 470px;"
     alt="GitHub Stats"
   />
 
@@ -346,15 +485,6 @@ HTML • CSS
     width="100%"
     style="max-width: 350px;"
     alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=arnab3339&theme=dark&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999"
-    width="100%"
-    style="max-width: 500px;"
-    alt="GitHub Streak"
   />
 </p>
 
@@ -376,9 +506,10 @@ HTML • CSS
 
 <p align="center">
   <i>
-    To build strong expertise in software development and backend engineering,
-    while combining my Electronics & Communication background with modern
-    programming and web technologies to create practical solutions.
+    To grow as a software developer and backend engineer by building
+    scalable, reliable and practical applications while combining
+    my Electronics & Communication background with modern software
+    technologies.
   </i>
 </p>
 
@@ -388,8 +519,8 @@ HTML • CSS
 
 <p align="center">
   <i>
-    Interested in software development, IoT, web technologies,
-    problem solving and building meaningful projects.
+    Interested in Software Development, Backend Engineering, IoT,
+    Web Technologies, Problem Solving and Building Meaningful Projects.
   </i>
 </p>
 
@@ -399,7 +530,7 @@ HTML • CSS
 
 <tr>
 
-<td align="center" width="220" style="padding: 16px;">
+<td align="center" width="220" style="padding: 20px;">
 
 <a href="https://www.linkedin.com/in/arnab-mukherjee-825517283/" target="_blank">
 
@@ -425,7 +556,7 @@ HTML • CSS
 
 </td>
 
-<td align="center" width="220" style="padding: 16px;">
+<td align="center" width="220" style="padding: 20px;">
 
 <a href="https://www.instagram.com/_moms_.devil_/" target="_blank">
 
@@ -451,7 +582,7 @@ HTML • CSS
 
 </td>
 
-<td align="center" width="220" style="padding: 16px;">
+<td align="center" width="220" style="padding: 20px;">
 
 <a href="mailto:arnab3339@gmail.com">
 
