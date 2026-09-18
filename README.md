@@ -8,15 +8,11 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&width=750&height=45&lines=Hi+there!+I'm+Arnab+Mukherjee+%F0%9F%91%8B;Electronics+%26+Communication+Engineer+%F0%9F%93%A1;Java+%7C+C%2B%2B+%7C+JavaScript+%7C+React+%7C+Node.js;Building+Practical+Solutions+with+Code+%26+Technology+%E2%9A%A1"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&width=800&height=45&lines=Hi+there!+I'm+Arnab+Mukherjee+%F0%9F%91%8B;Electronics+%26+Communication+Engineer+%F0%9F%93%A1;Currently%2C+I+am+an+SDE+Intern;Java+%7C+C%2B%2B+%7C+JavaScript+%7C+React+%7C+Node.js;Building+Practical+Solutions+with+Code+%26+Technology+%E2%9A%A1"
     width="100%"
-    style="max-width: 750px;"
+    style="max-width: 800px;"
     alt="Typing Introduction"
   />
-</p>
-
-<p align="center">
-  <b>Currently, I am an SDE Intern.</b>
 </p>
 
 <p align="center">
@@ -83,7 +79,7 @@
 </p>
 
 <p align="center">
-  Currently, I am focusing on strengthening my skills in
+  I am continuously improving my knowledge of
   <b>DSA, OOP, DBMS, SQL, REST APIs, Backend Development,
   Microservices and System Design</b>.
 </p>
@@ -556,6 +552,21 @@ HTML • CSS
     width="100%"
     style="max-width: 350px;"
     alt="Top Languages"
+  />
+
+</p>
+
+<br />
+
+<h3 align="center">🔥 GitHub Contribution Streak</h3>
+
+<p align="center">
+
+  <img
+    src="https://streak-stats.demolab.com/?user=arnab3339&theme=dark&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999"
+    width="100%"
+    style="max-width: 900px;"
+    alt="GitHub Streak"
   />
 
 </p>
