@@ -1,424 +1,714 @@
-<!-- ========================= -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:7c3aed,100:111827&height=220&section=header&text=ARNAB%20MUKHERJEE&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ECE%20Engineer%20%7C%20Software%20Developer&descAlignY=58&descSize=18"
+    width="100%"
+    alt="Arnab Mukherjee Header"
+  />
+</p>
 
-<!--        HERO SECTION       -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&height=45&lines=Hi+there!+I'm+Arnab+Mukherjee+%F0%9F%91%8B;Electronics+%26+Communication+Engineer+%F0%9F%93%A1;Currently%2C+I+am+an+SDE+Intern;Java+%7C+C%2B%2B+%7C+JavaScript+%7C+React+%7C+Node.js;Building+Practical+Solutions+with+Code+%26+Technology+%E2%9A%A1"
+    width="100%"
+    style="max-width: 800px;"
+    alt="Typing Introduction"
+  />
+</p>
 
-<!-- ========================= -->
+<p align="center">
 
-<div align="center">
+  <a href="https://www.linkedin.com/in/arnab-mukherjee-825517283/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827"
+      alt="LinkedIn"
+    />
+  </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:0891b2,100:020617&height=230&section=header&text=ARNAB%20MUKHERJEE&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=ECE%20Engineer%20%7C%20Software%20Developer%20%7C%20Backend%20Enthusiast&descAlignY=60&descSize=17&descColor=67e8f9" width="100%"/>
+  <a href="https://www.instagram.com/_moms_.devil_/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Instagram-Follow-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111827"
+      alt="Instagram"
+    />
+  </a>
 
-<br>
+  <a href="https://github.com/arnab3339" target="_blank">
+    <img
+      src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0B1120"
+      alt="GitHub"
+    />
+  </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=850&height=45&lines=Hey!+I'm+Arnab+%F0%9F%91%8B;Electronics+%26+Communication+Engineer+%F0%9F%93%A1;SDE+Intern+%7C+Backend+%26+Web+Development;Java+%7C+C%2B%2B+%7C+JavaScript+%7C+TypeScript;Building+Systems%2C+Solving+Problems%2C+Learning+Every+Day+%E2%9A%A1" />
+  <a href="mailto:arnab3339@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827"
+      alt="Email"
+    />
+  </a>
 
-<br>
+</p>
 
-<a href="https://github.com/arnab3339">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=22d3ee"/>
-</a>
-
-<a href="https://www.linkedin.com/in/arnab-mukherjee-825517283/">
-<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=22d3ee"/>
-</a>
-
-<a href="mailto:arnab3339@gmail.com">
-<img src="https://img.shields.io/badge/Email-0891b2?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=arnab3339&label=PROFILE%20VIEWS&color=0891b2&style=for-the-badge"/>
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   Hello! I'm Arnab Mukherjee 👋                             │
-│                                                              │
-│   Electronics & Communication Engineering graduate          │
-│   currently focused on Software Development and             │
-│   Backend Engineering.                                      │
-│                                                              │
-│   I enjoy turning ideas into practical applications         │
-│   using modern web technologies and backend systems.         │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-### ⚡ What I'm Focused On
-
-* 🔹 Backend Development
-* 🔹 REST APIs & Microservices
-* 🔹 Database Design & SQL
-* 🔹 Redis & Queue-Based Processing
-* 🔹 DSA & Problem Solving
-* 🔹 Web Application Development
-* 🔹 IoT & Practical Engineering Solutions
-
-> **Build → Break → Understand → Improve → Repeat.**
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=arnab3339&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
 
 ---
 
-# 🧰 Tech Arsenal
+<h2 align="center">👨‍💻 About Me</h2>
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=30&lines=Driven+by+curiosity.+Building+with+purpose.+Learning+every+day."
+    width="100%"
+    style="max-width: 700px;"
+    alt="About Me"
+  />
+</p>
 
-### 💻 Languages
+<p align="center">
+  Hi! I'm <b>Arnab Mukherjee</b>, an
+  <b>Electronics & Communication Engineering</b> graduate with a strong
+  interest in <b>Software Development, Backend Engineering, IoT and Web Technologies</b>.
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,cpp,c,js,ts,python" />
+<p align="center">
+  I enjoy building practical applications and solving programming
+  problems using <b>Java, C, C++, JavaScript and modern web technologies</b>.
+</p>
 
-<br><br>
+<p align="center">
+  I am continuously improving my knowledge of
+  <b>DSA, OOP, DBMS, SQL, REST APIs, Backend Development,
+  Microservices and System Design</b>.
+</p>
 
-### 🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-
-<br><br>
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastify" />
-
-<br><br>
-
-### 🗄️ Database & ORM
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma" />
-
-<br><br>
-
-### 🚀 Dev Tools & Distributed Systems
-
-<img src="https://skillicons.dev/icons?i=redis,docker,git,github,postman" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Background-ECE%20Engineer-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Current%20Role-SDE%20Intern-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Interest-IoT%20%26%20Web-111827?style=flat-square" />
+</p>
 
 ---
 
-# 🏗️ Engineering Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<table width="100%">
+<table width="100%" border="0" align="center">
+
 <tr>
-<td width="50%" valign="top">
 
-### 🔹 Backend & APIs
+<td width="50%" align="center" style="padding: 20px;">
 
-```text
-Node.js
-TypeScript
-Express.js
-NestJS
-Fastify
-REST APIs
-Microservices
-```
+<h3>💻 Programming Languages</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,ts" />
+</p>
+
+<p>
+  Java • C • C++ • JavaScript • TypeScript • Python Basics
+</p>
+
+</td>
+
+<td width="50%" align="center" style="padding: 20px;">
+
+<h3>🌐 Frontend</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
+
+<p>
+  HTML • CSS • JavaScript • React • Next.js • Tailwind CSS
+</p>
 
 </td>
 
-<td width="50%" valign="top">
-
-### 🔹 Data Layer
-
-```text
-MySQL
-PostgreSQL
-Prisma
-Sequelize
-SQL
-Database Design
-Migrations
-CRUD
-```
-
-</td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
 
-### 🔹 Async & Distributed
+<td width="50%" align="center" style="padding: 20px;">
 
-```text
-Redis
-BullMQ
-Queue Processing
-Cron Jobs
-Distributed Locking
-Background Jobs
-```
+<h3>⚙️ Backend & APIs</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastify" />
+</p>
+
+<p>
+  Node.js • Express.js • NestJS • Fastify
+  <br />
+  REST APIs • Microservices • Backend Architecture
+</p>
+
+</td>
+
+<td width="50%" align="center" style="padding: 20px;">
+
+<h3>🗄️ Database & ORM</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma" />
+</p>
+
+<p>
+  MySQL • SQL • Prisma • Sequelize
+  <br />
+  Database Design • Migrations • CRUD
+</p>
 
 </td>
 
-<td width="50%" valign="top">
-
-### 🔹 Core Concepts
-
-```text
-OOP
-DSA
-DBMS
-SQL
-Computer Networks
-Authentication
-Validation
-Git Workflow
-```
-
-</td>
 </tr>
+
+<tr>
+
+<td width="50%" align="center" style="padding: 20px;">
+
+<h3>🚀 Distributed Systems & Tools</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=redis,docker,git,github,postman" />
+</p>
+
+<p>
+  Redis • BullMQ • Queue Processing • Cron Jobs
+  <br />
+  Git • GitHub • Postman
+</p>
+
+</td>
+
+<td width="50%" align="center" style="padding: 20px;">
+
+<h3>🧠 Core Concepts</h3>
+
+<p>
+  OOP • DSA • DBMS • SQL
+  <br />
+  Computer Networks • REST API • CRUD
+  <br />
+  Authentication • Validation • Git Workflow
+</p>
+
+</td>
+
+</tr>
+
 </table>
 
 ---
 
-# 🚀 Projects & Engineering Work
+<h2 align="center">🚀 Projects & Engineering Work</h2>
 
-## 🏢 Internal Engineering Task Management System
+<table width="100%" border="0" align="center">
 
-**Full-Stack Web Application**
+<tr>
 
-A web-based internal engineering platform involving dashboard interfaces, task workflows, role-based APIs and frontend state management.
+<td width="50%" align="center" style="padding: 25px;">
 
-**Stack**
+<h3>🏢 Internal Engineering Task Management System</h3>
 
-`Next.js` `React` `Tailwind CSS` `TanStack Query`
-`Redux Toolkit` `Node.js` `Express.js` `Prisma` `MySQL`
+<p>
+  <b>Full-Stack Web Application</b>
+</p>
+
+<p>
+  Worked on an internal engineering task management platform involving
+  dashboard interfaces, task workflows, role-based APIs and frontend
+  state management.
+</p>
+
+<p>
+  <b>Technologies:</b>
+  Next.js • React • Tailwind CSS • TanStack Query
+  • Redux Toolkit • Node.js • Express.js • Prisma • MySQL
+</p>
+
+</td>
+
+<td width="50%" align="center" style="padding: 25px;">
+
+<h3>📅 Slot Booking Service</h3>
+
+<p>
+  <b>Backend Service</b>
+</p>
+
+<p>
+  Worked on backend workflows for candidate slot booking, service-side
+  business logic and booking management.
+</p>
+
+<p>
+  <b>Technologies:</b>
+  Node.js • TypeScript • Express.js
+  • Sequelize • MySQL • REST APIs
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center" style="padding: 25px;">
+
+<h3>📝 Candidate Form Details Service</h3>
+
+<p>
+  <b>Backend Microservice</b>
+</p>
+
+<p>
+  Worked on candidate submission handling and backend service workflows,
+  including integration with asynchronous reminder processing.
+</p>
+
+<p>
+  <b>Technologies:</b>
+  Node.js • TypeScript • Express.js
+  • Sequelize • MySQL • Redis • BullMQ
+</p>
+
+</td>
+
+<td width="50%" align="center" style="padding: 25px;">
+
+<h3>🔔 Slot Booking Notification Service</h3>
+
+<p>
+  <b>Notification & Reminder Microservice</b>
+</p>
+
+<p>
+  Worked on asynchronous notification workflows, booking reminders,
+  queues and scheduled processing for pending candidate bookings.
+</p>
+
+<p>
+  <b>Technologies:</b>
+  Node.js • TypeScript • Prisma
+  • Redis • BullMQ • Cron Jobs
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center" style="padding: 25px;">
+
+<h3>🧠 Java Quiz Application</h3>
+
+<p>
+  <b>Desktop-Based Quiz Application</b>
+</p>
+
+<p>
+  An interactive quiz application developed using Java and Swing,
+  featuring MCQ questions, timer functionality, lifeline support
+  and score calculation.
+</p>
+
+<p>
+  <b>Technologies:</b>
+  Java • Swing • OOP
+</p>
+
+<p>
+  <a href="https://github.com/arnab3339/Java-Quiz-Application">
+    <img
+      src="https://img.shields.io/badge/View%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"
+      alt="Java Quiz Application Repository"
+    />
+  </a>
+</p>
+
+</td>
+
+<td width="50%" align="center" style="padding: 25px;">
+
+<h3>🌱 Smart Waste Management System</h3>
+
+<p>
+  <b>IoT-Based Final Year Project</b>
+</p>
+
+<p>
+  An IoT-based smart waste management system designed around
+  sensor-based waste detection, monitoring and dry/wet waste
+  segregation.
+</p>
+
+<p>
+  <b>Technologies:</b>
+  IoT • Sensors • Arduino • Embedded Systems
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center" style="padding: 25px;">
+
+<h3>🚨 Anti Ragging Website</h3>
+
+<p>
+  A web-based complaint platform designed for submitting and handling
+  anti-ragging complaints with email functionality.
+</p>
+
+<p>
+  <b>Technologies:</b>
+  HTML • CSS • JavaScript • SMTP
+</p>
+
+</td>
+
+<td width="50%" align="center" style="padding: 25px;">
+
+<h3>🎬 Netflix Landing Page Clone</h3>
+
+<p>
+  A frontend landing page recreation developed to practice
+  responsive UI design and frontend development.
+</p>
+
+<p>
+  <b>Technologies:</b>
+  HTML • CSS
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+<p align="center">
+
+  <a href="https://github.com/arnab3339/candidate-form-details-service">
+    <img
+      src="https://img.shields.io/badge/Candidate%20Form%20Service-View%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"
+      alt="Candidate Form Details Service"
+    />
+  </a>
+
+  <a href="https://github.com/arnab3339/slot-booking-service">
+    <img
+      src="https://img.shields.io/badge/Slot%20Booking%20Service-View%20Repository-111827?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0B1120"
+      alt="Slot Booking Service"
+    />
+  </a>
+
+  <a href="https://github.com/arnab3339/slot-booking-system-notification-service">
+    <img
+      src="https://img.shields.io/badge/Notification%20Service-View%20Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"
+      alt="Notification Service"
+    />
+  </a>
+
+</p>
 
 ---
 
-## 📅 Slot Booking Service
+<h2 align="center">🎓 Certifications</h2>
 
-**Backend Service**
+<table width="100%" border="0" align="center">
 
-Backend service focused on candidate slot booking workflows, business logic and booking management.
+<tr>
 
-**Stack**
+<td width="50%" align="center" style="padding: 25px;">
 
-`Node.js` `TypeScript` `Express.js`
-`Sequelize` `MySQL` `REST APIs`
+<h3>☁️ Salesforce</h3>
 
-<a href="https://github.com/arnab3339/slot-booking-service">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0891b2?style=for-the-badge&logo=github&logoColor=white"/>
+<p>
+  <img
+    src="https://img.shields.io/badge/Salesforce-Certification-7C3AED?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=111827"
+    alt="Salesforce Certification"
+  />
+</p>
+
+<p>
+  Salesforce Certification
+</p>
+
+</td>
+
+<td width="50%" align="center" style="padding: 25px;">
+
+<h3>☕ Wipro TalentNext</h3>
+
+<p>
+  <img
+    src="https://img.shields.io/badge/Wipro%20TalentNext-Java%20Full%20Stack-111827?style=for-the-badge&logo=java&logoColor=A78BFA&labelColor=0B1120"
+    alt="Wipro TalentNext Java Full Stack"
+  />
+</p>
+
+<p>
+  Java Full Stack Certification
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<h2 align="center">🧩 Problem Solving & Core Skills</h2>
+
+<table width="100%" border="0" align="center">
+
+<tr>
+
+<td width="33.33%" align="center" style="padding: 18px;">
+
+<img
+src="https://img.shields.io/badge/DSA-PROBLEM%20SOLVING-7C3AED?style=for-the-badge"
+alt="DSA"
+/>
+
+</td>
+
+<td width="33.33%" align="center" style="padding: 18px;">
+
+<img
+src="https://img.shields.io/badge/OOP-OBJECT%20ORIENTED%20PROGRAMMING-111827?style=for-the-badge"
+alt="OOP"
+/>
+
+</td>
+
+<td width="33.33%" align="center" style="padding: 18px;">
+
+<img
+src="https://img.shields.io/badge/DBMS-DATABASE%20CONCEPTS-8B5CF6?style=for-the-badge"
+alt="DBMS"
+/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33.33%" align="center" style="padding: 18px;">
+
+<img
+src="https://img.shields.io/badge/SQL-DATABASE%20QUERIES-111827?style=for-the-badge"
+alt="SQL"
+/>
+
+</td>
+
+<td width="33.33%" align="center" style="padding: 18px;">
+
+<img
+src="https://img.shields.io/badge/REST%20API-BACKEND%20DEVELOPMENT-7C3AED?style=for-the-badge"
+alt="REST API"
+/>
+
+</td>
+
+<td width="33.33%" align="center" style="padding: 18px;">
+
+<img
+src="https://img.shields.io/badge/MICROSERVICES-ARCHITECTURE-111827?style=for-the-badge"
+alt="Microservices"
+/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+
+<img
+ src="https://github-readme-stats.vercel.app/api?username=arnab3339&show_icons=true&hide_border=false&bg_color=0B1120&title_color=8B5CF6&text_color=F1F5F9&icon_color=8B5CF6&border_color=7C3AED&border_radius=10"
+ width="100%"
+ style="max-width: 470px;"
+ alt="GitHub Stats"
+/>
+
+<img
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnab3339&layout=compact&hide_border=false&bg_color=0B1120&title_color=8B5CF6&text_color=F1F5F9&border_color=7C3AED&border_radius=10"
+ width="100%"
+ style="max-width: 350px;"
+ alt="Top Languages"
+/>
+
+</p>
+
+<br />
+
+<h3 align="center">🔥 GitHub Contribution Streak</h3>
+
+<p align="center">
+
+<img
+ src="https://streak-stats.demolab.com/?user=arnab3339&theme=dark&hide_border=false&border=7C3AED&background=0B1120&ring=8B5CF6&fire=A78BFA&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=94a3b8"
+ width="100%"
+ style="max-width: 900px;"
+ alt="GitHub Streak"
+/>
+
+</p>
+
+---
+
+<h2 align="center">📈 Contribution Journey</h2>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnab3339&theme=github_dark"
+    width="100%"
+    alt="GitHub Contribution Summary"
+  />
+</p>
+
+---
+
+<h2 align="center">🎯 Career Goal</h2>
+
+<p align="center">
+  <i>
+    To grow as a software developer and backend engineer by building
+    scalable, reliable and practical applications while combining
+    my Electronics & Communication background with modern software
+    technologies.
+  </i>
+</p>
+
+---
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<p align="center">
+  <i>
+    Interested in Software Development, Backend Engineering, IoT,
+    Web Technologies, Problem Solving and Building Meaningful Projects.
+  </i>
+</p>
+
+<br />
+
+<table border="0" align="center">
+
+<tr>
+
+<td align="center" width="220" style="padding: 20px;">
+
+<a href="https://www.linkedin.com/in/arnab-mukherjee-825517283/" target="_blank">
+
+<img
+src="https://skillicons.dev/icons?i=linkedin"
+width="60"
+height="60"
+alt="LinkedIn"
+/>
+
+<br /><br />
+
+<img
+src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827"
+alt="LinkedIn"
+/>
+
 </a>
 
----
+<br />
 
-## 📝 Candidate Form Details Service
+<sub><b>Professional Network</b></sub>
 
-**Backend Microservice**
+</td>
 
-Candidate submission handling service with asynchronous processing and reminder workflows.
+<td align="center" width="220" style="padding: 20px;">
 
-**Stack**
+<a href="https://www.instagram.com/_moms_.devil_/" target="_blank">
 
-`Node.js` `TypeScript` `Express.js`
-`Sequelize` `MySQL` `Redis` `BullMQ`
+<img
+src="https://skillicons.dev/icons?i=instagram"
+width="60"
+height="60"
+alt="Instagram"
+/>
 
-<a href="https://github.com/arnab3339/candidate-form-details-service">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0891b2?style=for-the-badge&logo=github&logoColor=white"/>
+<br /><br />
+
+<img
+src="https://img.shields.io/badge/Instagram-Follow-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111827"
+alt="Instagram"
+/>
+
 </a>
 
----
+<br />
 
-## 🔔 Slot Booking Notification Service
+<sub><b>Social & Updates</b></sub>
 
-**Notification & Reminder Microservice**
+</td>
 
-Handles asynchronous notification workflows, booking reminders, queues and scheduled processing for pending bookings.
-
-**Stack**
-
-`Node.js` `TypeScript` `Prisma`
-`Redis` `BullMQ` `Cron Jobs`
-
-<a href="https://github.com/arnab3339/slot-booking-system-notification-service">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0891b2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-## 🧠 Java Quiz Application
-
-**Desktop-Based Quiz Application**
-
-Interactive quiz application built with Java and Swing featuring:
-
-* MCQ questions
-* ⏱️ Timer functionality
-* 🆘 Lifeline support
-* 📊 Score calculation
-* 🖥️ Interactive UI
-
-**Stack**
-
-`Java` `Swing` `OOP`
-
-<a href="https://github.com/arnab3339/Java-Quiz-Application">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0891b2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-## 🌱 Smart Waste Management System
-
-**IoT-Based Final Year Project**
-
-An IoT-based smart waste management solution designed around sensor-based waste detection, monitoring and dry/wet waste segregation.
-
-**Stack**
-
-`IoT` `Sensors` `Arduino` `Embedded Systems`
-
----
-
-## 🚨 Anti Ragging Website
-
-A web-based complaint platform designed for submitting and handling anti-ragging complaints with email functionality.
-
-**Stack**
-
-`HTML` `CSS` `JavaScript` `SMTP`
-
----
-
-## 🎬 Netflix Landing Page Clone
-
-A frontend recreation built to practice responsive UI design and frontend development.
-
-**Stack**
-
-`HTML` `CSS`
-
----
-
-# 🧠 Problem Solving
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/DSA-Problem%20Solving-0891b2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OOP-Object%20Oriented-164e63?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DBMS-Database%20Concepts-0891b2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-Queries-164e63?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST-APIs-0891b2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MICROSERVICES-Architecture-164e63?style=for-the-badge"/>
-
-</div>
-
----
-
-# 🏅 Certifications
-
-<div align="center">
-
-|          Certification          |       Area      |
-| :-----------------------------: | :-------------: |
-| ☁️ **Salesforce Certification** |    Salesforce   |
-|      ☕ **Wipro TalentNext**     | Java Full Stack |
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arnab3339&show_icons=true&hide_border=true&bg_color=020617&title_color=22d3ee&text_color=e2e8f0&icon_color=22d3ee&border_radius=12" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnab3339&layout=compact&hide_border=true&bg_color=020617&title_color=22d3ee&text_color=e2e8f0&border_radius=12" width="38%"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=arnab3339&theme=dark&hide_border=true&background=020617&ring=22d3ee&fire=22d3ee&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=22d3ee&sideLabels=94a3b8&dates=64748b" width="80%"/>
-
-</div>
-
----
-
-# 📈 Contribution Journey
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnab3339&theme=github_dark" width="100%"/>
-
-</div>
-
----
-
-# 🎯 Current Direction
-
-<div align="center">
-
-```text
-Software Development
-        │
-        ├── Backend Engineering
-        │      ├── REST APIs
-        │      ├── Microservices
-        │      ├── Databases
-        │      └── Distributed Systems
-        │
-        ├── Problem Solving
-        │      ├── DSA
-        │      ├── OOP
-        │      └── DBMS
-        │
-        └── Practical Engineering
-               ├── IoT
-               └── Web Technologies
-```
-
-</div>
-
-My goal is to grow as a software developer and backend engineer by building **scalable, reliable and practical applications**, while combining my Electronics & Communication background with modern software technologies.
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-### 💬 Always open to learning, building and collaborating.
-
-<br>
-
-<a href="https://www.linkedin.com/in/arnab-mukherjee-825517283/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/arnab3339">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
-</a>
-&nbsp;&nbsp;&nbsp;
+<td align="center" width="220" style="padding: 20px;">
 
 <a href="mailto:arnab3339@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+
+<img
+src="https://skillicons.dev/icons?i=gmail"
+width="60"
+height="60"
+alt="Gmail"
+/>
+
+<br /><br />
+
+<img
+src="https://img.shields.io/badge/Email-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827"
+alt="Email"
+/>
+
 </a>
 
-<br><br>
+<br />
 
-<a href="https://www.linkedin.com/in/arnab-mukherjee-825517283/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0891b2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<sub><b>Direct Collaboration</b></sub>
 
-<a href="https://github.com/arnab3339">
-<img src="https://img.shields.io/badge/GitHub-Follow-164e63?style=for-the-badge&logo=github&logoColor=22d3ee"/>
-</a>
+</td>
 
-<a href="mailto:arnab3339@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-0891b2?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</tr>
 
-<br><br>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:0891b2,100:020617&height=130&section=footer"/>
+---
 
-### ⚡ Keep Learning • Keep Building • Keep Growing 🚀
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:7c3aed,100:111827&height=120&section=footer"
+    width="100%"
+    alt="Footer"
+  />
+</p>
 
-</div>
+<p align="center">
+  <b>⭐ Thanks for visiting my profile!</b>
+</p>
+
+<p align="center">
+  <i>Keep Learning • Keep Building • Keep Growing 🚀</i>
+</p>
