@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:7c3aed,100:111827&height=220&section=header&text=ARNAB%20MUKHERJEE&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ECE%20Engineer%20%7C%20Software%20Developer&descAlignY=58&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:080506,50:E50914,100:080506&height=220&section=header&text=ARNAB%20MUKHERJEE&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ECE%20Engineer%20%7C%20Software%20Developer&descAlignY=58&descSize=18"
     width="100%"
     alt="Arnab Mukherjee Header"
   />
@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&height=45&lines=Hi+there!+I'm+Arnab+Mukherjee+%F0%9F%91%8B;Electronics+%26+Communication+Engineer+%F0%9F%93%A1;Currently%2C+I+am+an+SDE+Intern;Java+%7C+C%2B%2B+%7C+JavaScript+%7C+React+%7C+Node.js;Building+Practical+Solutions+with+Code+%26+Technology+%E2%9A%A1"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=FF1E2D&center=true&vCenter=true&width=800&height=45&lines=Hi+there!+I'm+Arnab+Mukherjee+%F0%9F%91%8B;Electronics+%26+Communication+Engineer+%F0%9F%93%A1;Currently%2C+I+am+an+SDE+Intern;Java+%7C+C%2B%2B+%7C+JavaScript+%7C+React+%7C+Node.js;Building+Practical+Solutions+with+Code+%26+Technology+%E2%9A%A1"
     width="100%"
     style="max-width: 800px;"
     alt="Typing Introduction"
@@ -19,28 +19,28 @@
 
   <a href="https://www.linkedin.com/in/arnab-mukherjee-825517283/" target="_blank">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827"
+      src="https://img.shields.io/badge/LinkedIn-Connect-E50914?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=090506"
       alt="LinkedIn"
     />
   </a>
 
   <a href="https://www.instagram.com/_moms_.devil_/" target="_blank">
     <img
-      src="https://img.shields.io/badge/Instagram-Follow-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111827"
+      src="https://img.shields.io/badge/Instagram-Follow-E50914?style=for-the-badge&logo=instagram&logoColor=white&labelColor=090506"
       alt="Instagram"
     />
   </a>
 
   <a href="https://github.com/arnab3339" target="_blank">
     <img
-      src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0B1120"
+      src="https://img.shields.io/badge/GitHub-Follow-080506?style=for-the-badge&logo=github&logoColor=FF1E2D&labelColor=090506"
       alt="GitHub"
     />
   </a>
 
   <a href="mailto:arnab3339@gmail.com">
     <img
-      src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827"
+      src="https://img.shields.io/badge/Email-Contact-E50914?style=for-the-badge&logo=gmail&logoColor=white&labelColor=090506"
       alt="Email"
     />
   </a>
@@ -49,18 +49,16 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=arnab3339&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=arnab3339&label=PROFILE%20VIEWS&color=E50914&style=for-the-badge"
     alt="Profile Views"
   />
 </p>
-
----
 
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=30&lines=Driven+by+curiosity.+Building+with+purpose.+Learning+every+day."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=FF6B73&center=true&vCenter=true&width=700&height=30&lines=Driven+by+curiosity.+Building+with+purpose.+Learning+every+day."
     width="100%"
     style="max-width: 700px;"
     alt="About Me"
@@ -85,13 +83,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Background-ECE%20Engineer-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Current%20Role-SDE%20Intern-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Interest-IoT%20%26%20Web-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Background-ECE%20Engineer-E50914?style=flat-square" />
+  <img src="https://img.shields.io/badge/Current%20Role-SDE%20Intern-080506?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-E50914?style=flat-square" />
+  <img src="https://img.shields.io/badge/Interest-IoT%20%26%20Web-080506?style=flat-square" />
 </p>
-
----
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -201,8 +197,6 @@
 
 </table>
 
----
-
 <h2 align="center">🚀 Projects & Engineering Work</h2>
 
 <table width="100%" border="0" align="center">
@@ -214,19 +208,19 @@
 <h3>🏢 Internal Engineering Task Management System</h3>
 
 <p>
-  <b>Full-Stack Web Application</b>
+<b>Full-Stack Web Application</b>
 </p>
 
 <p>
-  Worked on an internal engineering task management platform involving
-  dashboard interfaces, task workflows, role-based APIs and frontend
-  state management.
+Worked on an internal engineering task management platform involving
+dashboard interfaces, task workflows, role-based APIs and frontend
+state management.
 </p>
 
 <p>
-  <b>Technologies:</b>
-  Next.js • React • Tailwind CSS • TanStack Query
-  • Redux Toolkit • Node.js • Express.js • Prisma • MySQL
+<b>Technologies:</b>
+Next.js • React • Tailwind CSS • TanStack Query
+• Redux Toolkit • Node.js • Express.js • Prisma • MySQL
 </p>
 
 </td>
@@ -236,18 +230,18 @@
 <h3>📅 Slot Booking Service</h3>
 
 <p>
-  <b>Backend Service</b>
+<b>Backend Service</b>
 </p>
 
 <p>
-  Worked on backend workflows for candidate slot booking, service-side
-  business logic and booking management.
+Worked on backend workflows for candidate slot booking, service-side
+business logic and booking management.
 </p>
 
 <p>
-  <b>Technologies:</b>
-  Node.js • TypeScript • Express.js
-  • Sequelize • MySQL • REST APIs
+<b>Technologies:</b>
+Node.js • TypeScript • Express.js
+• Sequelize • MySQL • REST APIs
 </p>
 
 </td>
@@ -261,18 +255,18 @@
 <h3>📝 Candidate Form Details Service</h3>
 
 <p>
-  <b>Backend Microservice</b>
+<b>Backend Microservice</b>
 </p>
 
 <p>
-  Worked on candidate submission handling and backend service workflows,
-  including integration with asynchronous reminder processing.
+Worked on candidate submission handling and backend service workflows,
+including integration with asynchronous reminder processing.
 </p>
 
 <p>
-  <b>Technologies:</b>
-  Node.js • TypeScript • Express.js
-  • Sequelize • MySQL • Redis • BullMQ
+<b>Technologies:</b>
+Node.js • TypeScript • Express.js
+• Sequelize • MySQL • Redis • BullMQ
 </p>
 
 </td>
@@ -282,18 +276,18 @@
 <h3>🔔 Slot Booking Notification Service</h3>
 
 <p>
-  <b>Notification & Reminder Microservice</b>
+<b>Notification & Reminder Microservice</b>
 </p>
 
 <p>
-  Worked on asynchronous notification workflows, booking reminders,
-  queues and scheduled processing for pending candidate bookings.
+Worked on asynchronous notification workflows, booking reminders,
+queues and scheduled processing for pending candidate bookings.
 </p>
 
 <p>
-  <b>Technologies:</b>
-  Node.js • TypeScript • Prisma
-  • Redis • BullMQ • Cron Jobs
+<b>Technologies:</b>
+Node.js • TypeScript • Prisma
+• Redis • BullMQ • Cron Jobs
 </p>
 
 </td>
@@ -307,27 +301,27 @@
 <h3>🧠 Java Quiz Application</h3>
 
 <p>
-  <b>Desktop-Based Quiz Application</b>
+<b>Desktop-Based Quiz Application</b>
 </p>
 
 <p>
-  An interactive quiz application developed using Java and Swing,
-  featuring MCQ questions, timer functionality, lifeline support
-  and score calculation.
+An interactive quiz application developed using Java and Swing,
+featuring MCQ questions, timer functionality, lifeline support
+and score calculation.
 </p>
 
 <p>
-  <b>Technologies:</b>
-  Java • Swing • OOP
+<b>Technologies:</b>
+Java • Swing • OOP
 </p>
 
 <p>
-  <a href="https://github.com/arnab3339/Java-Quiz-Application">
-    <img
-      src="https://img.shields.io/badge/View%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"
-      alt="Java Quiz Application Repository"
-    />
-  </a>
+<a href="https://github.com/arnab3339/Java-Quiz-Application">
+  <img
+    src="https://img.shields.io/badge/View%20Repository-E50914?style=for-the-badge&logo=github&logoColor=white&labelColor=090506"
+    alt="Java Quiz Application Repository"
+  />
+</a>
 </p>
 
 </td>
@@ -337,18 +331,18 @@
 <h3>🌱 Smart Waste Management System</h3>
 
 <p>
-  <b>IoT-Based Final Year Project</b>
+<b>IoT-Based Final Year Project</b>
 </p>
 
 <p>
-  An IoT-based smart waste management system designed around
-  sensor-based waste detection, monitoring and dry/wet waste
-  segregation.
+An IoT-based smart waste management system designed around
+sensor-based waste detection, monitoring and dry/wet waste
+segregation.
 </p>
 
 <p>
-  <b>Technologies:</b>
-  IoT • Sensors • Arduino • Embedded Systems
+<b>Technologies:</b>
+IoT • Sensors • Arduino • Embedded Systems
 </p>
 
 </td>
@@ -362,13 +356,13 @@
 <h3>🚨 Anti Ragging Website</h3>
 
 <p>
-  A web-based complaint platform designed for submitting and handling
-  anti-ragging complaints with email functionality.
+A web-based complaint platform designed for submitting and handling
+anti-ragging complaints with email functionality.
 </p>
 
 <p>
-  <b>Technologies:</b>
-  HTML • CSS • JavaScript • SMTP
+<b>Technologies:</b>
+HTML • CSS • JavaScript • SMTP
 </p>
 
 </td>
@@ -378,13 +372,13 @@
 <h3>🎬 Netflix Landing Page Clone</h3>
 
 <p>
-  A frontend landing page recreation developed to practice
-  responsive UI design and frontend development.
+A frontend landing page recreation developed to practice
+responsive UI design and frontend development.
 </p>
 
 <p>
-  <b>Technologies:</b>
-  HTML • CSS
+<b>Technologies:</b>
+HTML • CSS
 </p>
 
 </td>
@@ -397,28 +391,26 @@
 
   <a href="https://github.com/arnab3339/candidate-form-details-service">
     <img
-      src="https://img.shields.io/badge/Candidate%20Form%20Service-View%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"
+      src="https://img.shields.io/badge/Candidate%20Form%20Service-View%20Repository-E50914?style=for-the-badge&logo=github&logoColor=white&labelColor=090506"
       alt="Candidate Form Details Service"
     />
   </a>
 
   <a href="https://github.com/arnab3339/slot-booking-service">
     <img
-      src="https://img.shields.io/badge/Slot%20Booking%20Service-View%20Repository-111827?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0B1120"
+      src="https://img.shields.io/badge/Slot%20Booking%20Service-View%20Repository-080506?style=for-the-badge&logo=github&logoColor=FF1E2D&labelColor=090506"
       alt="Slot Booking Service"
     />
   </a>
 
   <a href="https://github.com/arnab3339/slot-booking-system-notification-service">
     <img
-      src="https://img.shields.io/badge/Notification%20Service-View%20Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"
+      src="https://img.shields.io/badge/Notification%20Service-View%20Repository-E50914?style=for-the-badge&logo=github&logoColor=white&labelColor=090506"
       alt="Notification Service"
     />
   </a>
 
 </p>
-
----
 
 <h2 align="center">🎓 Certifications</h2>
 
@@ -432,7 +424,7 @@
 
 <p>
   <img
-    src="https://img.shields.io/badge/Salesforce-Certification-7C3AED?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=111827"
+    src="https://img.shields.io/badge/Salesforce-Certification-E50914?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=090506"
     alt="Salesforce Certification"
   />
 </p>
@@ -449,7 +441,7 @@
 
 <p>
   <img
-    src="https://img.shields.io/badge/Wipro%20TalentNext-Java%20Full%20Stack-111827?style=for-the-badge&logo=java&logoColor=A78BFA&labelColor=0B1120"
+    src="https://img.shields.io/badge/Wipro%20TalentNext-Java%20Full%20Stack-080506?style=for-the-badge&logo=java&logoColor=FF1E2D&labelColor=090506"
     alt="Wipro TalentNext Java Full Stack"
   />
 </p>
@@ -464,8 +456,6 @@
 
 </table>
 
----
-
 <h2 align="center">🧩 Problem Solving & Core Skills</h2>
 
 <table width="100%" border="0" align="center">
@@ -475,7 +465,7 @@
 <td width="33.33%" align="center" style="padding: 18px;">
 
 <img
-src="https://img.shields.io/badge/DSA-PROBLEM%20SOLVING-7C3AED?style=for-the-badge"
+src="https://img.shields.io/badge/DSA-PROBLEM%20SOLVING-E50914?style=for-the-badge"
 alt="DSA"
 />
 
@@ -484,7 +474,7 @@ alt="DSA"
 <td width="33.33%" align="center" style="padding: 18px;">
 
 <img
-src="https://img.shields.io/badge/OOP-OBJECT%20ORIENTED%20PROGRAMMING-111827?style=for-the-badge"
+src="https://img.shields.io/badge/OOP-OBJECT%20ORIENTED%20PROGRAMMING-080506?style=for-the-badge"
 alt="OOP"
 />
 
@@ -493,7 +483,7 @@ alt="OOP"
 <td width="33.33%" align="center" style="padding: 18px;">
 
 <img
-src="https://img.shields.io/badge/DBMS-DATABASE%20CONCEPTS-8B5CF6?style=for-the-badge"
+src="https://img.shields.io/badge/DBMS-DATABASE%20CONCEPTS-E50914?style=for-the-badge"
 alt="DBMS"
 />
 
@@ -506,7 +496,7 @@ alt="DBMS"
 <td width="33.33%" align="center" style="padding: 18px;">
 
 <img
-src="https://img.shields.io/badge/SQL-DATABASE%20QUERIES-111827?style=for-the-badge"
+src="https://img.shields.io/badge/SQL-DATABASE%20QUERIES-080506?style=for-the-badge"
 alt="SQL"
 />
 
@@ -515,7 +505,7 @@ alt="SQL"
 <td width="33.33%" align="center" style="padding: 18px;">
 
 <img
-src="https://img.shields.io/badge/REST%20API-BACKEND%20DEVELOPMENT-7C3AED?style=for-the-badge"
+src="https://img.shields.io/badge/REST%20API-BACKEND%20DEVELOPMENT-E50914?style=for-the-badge"
 alt="REST API"
 />
 
@@ -524,7 +514,7 @@ alt="REST API"
 <td width="33.33%" align="center" style="padding: 18px;">
 
 <img
-src="https://img.shields.io/badge/MICROSERVICES-ARCHITECTURE-111827?style=for-the-badge"
+src="https://img.shields.io/badge/MICROSERVICES-ARCHITECTURE-080506?style=for-the-badge"
 alt="Microservices"
 />
 
@@ -534,21 +524,19 @@ alt="Microservices"
 
 </table>
 
----
-
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
 
 <img
- src="https://github-readme-stats.vercel.app/api?username=arnab3339&show_icons=true&hide_border=false&bg_color=0B1120&title_color=8B5CF6&text_color=F1F5F9&icon_color=8B5CF6&border_color=7C3AED&border_radius=10"
+ src="https://github-readme-stats.vercel.app/api?username=arnab3339&show_icons=true&hide_border=false&bg_color=090506&title_color=FF1E2D&text_color=F5F5F5&icon_color=FF1E2D&border_color=FF1E2D&border_radius=10"
  width="100%"
  style="max-width: 470px;"
  alt="GitHub Stats"
 />
 
 <img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnab3339&layout=compact&hide_border=false&bg_color=0B1120&title_color=8B5CF6&text_color=F1F5F9&border_color=7C3AED&border_radius=10"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnab3339&layout=compact&hide_border=false&bg_color=090506&title_color=FF1E2D&text_color=F5F5F5&border_color=FF1E2D&border_radius=10"
  width="100%"
  style="max-width: 350px;"
  alt="Top Languages"
@@ -563,15 +551,13 @@ alt="Microservices"
 <p align="center">
 
 <img
- src="https://streak-stats.demolab.com/?user=arnab3339&theme=dark&hide_border=false&border=7C3AED&background=0B1120&ring=8B5CF6&fire=A78BFA&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=94a3b8"
+ src="https://streak-stats.demolab.com/?user=arnab3339&theme=dark&hide_border=false&border=FF1E2D&background=090506&ring=FF1E2D&fire=FF1E2D&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF1E2D&sideLabels=FF1E2D&dates=A3A3A3"
  width="100%"
  style="max-width: 900px;"
  alt="GitHub Streak"
 />
 
 </p>
-
----
 
 <h2 align="center">📈 Contribution Journey</h2>
 
@@ -583,8 +569,6 @@ alt="Microservices"
   />
 </p>
 
----
-
 <h2 align="center">🎯 Career Goal</h2>
 
 <p align="center">
@@ -595,8 +579,6 @@ alt="Microservices"
     technologies.
   </i>
 </p>
-
----
 
 <h2 align="center">🤝 Let's Connect</h2>
 
@@ -627,7 +609,7 @@ alt="LinkedIn"
 <br /><br />
 
 <img
-src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827"
+src="https://img.shields.io/badge/LinkedIn-Connect-E50914?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=090506"
 alt="LinkedIn"
 />
 
@@ -653,7 +635,7 @@ alt="Instagram"
 <br /><br />
 
 <img
-src="https://img.shields.io/badge/Instagram-Follow-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111827"
+src="https://img.shields.io/badge/Instagram-Follow-E50914?style=for-the-badge&logo=instagram&logoColor=white&labelColor=090506"
 alt="Instagram"
 />
 
@@ -679,7 +661,7 @@ alt="Gmail"
 <br /><br />
 
 <img
-src="https://img.shields.io/badge/Email-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827"
+src="https://img.shields.io/badge/Email-Contact%20Me-E50914?style=for-the-badge&logo=gmail&logoColor=white&labelColor=090506"
 alt="Email"
 />
 
@@ -695,11 +677,9 @@ alt="Email"
 
 </table>
 
----
-
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:7c3aed,100:111827&height=120&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:080506,50:E50914,100:080506&height=120&section=footer"
     width="100%"
     alt="Footer"
   />
